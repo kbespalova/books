@@ -1,0 +1,27 @@
+body {
+    font-family: "Times New Roman", sans-serif;
+    margin: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="number"],
+button {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#bookList {
+    margin-top: 20px;
+}
